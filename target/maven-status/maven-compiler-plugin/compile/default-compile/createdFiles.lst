@@ -1,0 +1,10 @@
+model\Student.class
+controller\HomePageController.class
+dao\ProfessorDAO.class
+dao\HibernateUtil.class
+model\Subject.class
+dao\StudentDAO.class
+model\Grade.class
+model\Professor.class
+service\StudentService.class
+service\ProfessorService.class
